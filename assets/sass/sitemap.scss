@@ -1,0 +1,8 @@
+ul#cst-sitemap {
+    list-style-type: disc !important;
+    li > ul {
+        list-style-type: circle;
+        padding-left: 20px;
+    }
+}
+
